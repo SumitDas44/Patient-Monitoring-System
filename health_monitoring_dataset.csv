@@ -1,0 +1,1001 @@
+Body Temperature (°C),Heart Rate (BPM),Systolic Pressure (mmHg),Health Status,Suggested Medicine/Remedy
+34.7,116,105,Hypothermia,"Warm fluids, blankets, medical attention"
+36.4,114,105,Tachycardia,"Beta-blockers, reduce stress"
+38.1,97,82,Fever,Paracetamol
+36.7,97,127,Normal,None
+37.7,120,89,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+35.8,115,113,Tachycardia,"Beta-blockers, reduce stress"
+39.5,90,103,Fever,Paracetamol
+37.3,102,107,Tachycardia,"Beta-blockers, reduce stress"
+35.8,86,111,Normal,None
+34.8,100,94,Hypothermia,"Warm fluids, blankets, medical attention"
+37.0,89,133,Hypertension,"Antihypertensive drugs, lifestyle changes"
+39.1,59,114,Fever,Paracetamol
+34.9,110,125,Hypothermia,"Warm fluids, blankets, medical attention"
+36.7,103,104,Tachycardia,"Beta-blockers, reduce stress"
+37.8,114,122,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+35.6,115,120,Tachycardia,"Beta-blockers, reduce stress"
+37.4,89,83,Hypotension,"Increase salt intake, fluids"
+37.8,67,126,Fever,Paracetamol
+34.7,118,82,Hypothermia,"Warm fluids, blankets, medical attention"
+39.5,112,125,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+36.6,112,121,Tachycardia,"Beta-blockers, reduce stress"
+38.2,81,103,Fever,Paracetamol
+39.0,100,87,Fever,Paracetamol
+35.7,106,119,Tachycardia,"Beta-blockers, reduce stress"
+38.0,107,96,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+36.3,78,98,Normal,None
+35.6,62,89,Hypotension,"Increase salt intake, fluids"
+36.0,80,126,Normal,None
+38.4,75,130,Fever,Paracetamol
+38.1,73,94,Fever,Paracetamol
+36.4,97,87,Hypotension,"Increase salt intake, fluids"
+37.7,66,129,Fever,Paracetamol
+35.0,73,104,Hypothermia,"Warm fluids, blankets, medical attention"
+38.3,116,88,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+35.1,60,115,Hypothermia,"Warm fluids, blankets, medical attention"
+37.9,108,103,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+38.6,53,90,Fever,Paracetamol
+35.1,111,123,Hypothermia,"Warm fluids, blankets, medical attention"
+35.7,78,112,Normal,None
+38.7,85,101,Fever,Paracetamol
+38.0,81,114,Fever,Paracetamol
+37.9,84,136,Fever,Paracetamol
+36.0,86,118,Normal,None
+34.9,53,92,Hypothermia,"Warm fluids, blankets, medical attention"
+38.9,118,80,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+39.3,77,92,Fever,Paracetamol
+34.8,103,111,Hypothermia,"Warm fluids, blankets, medical attention"
+36.9,107,84,Hypotension,"Increase salt intake, fluids"
+39.2,53,92,Fever,Paracetamol
+34.8,52,109,Hypothermia,"Warm fluids, blankets, medical attention"
+36.3,83,108,Normal,None
+35.3,89,81,Hypothermia,"Warm fluids, blankets, medical attention"
+39.1,105,101,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+39.0,98,110,Fever,Paracetamol
+37.9,64,124,Fever,Paracetamol
+37.9,68,122,Fever,Paracetamol
+37.6,55,108,Fever,Paracetamol
+36.3,70,123,Normal,None
+36.2,75,115,Normal,None
+37.2,110,126,Tachycardia,"Beta-blockers, reduce stress"
+38.4,66,127,Fever,Paracetamol
+34.8,94,131,Hypothermia,"Warm fluids, blankets, medical attention"
+35.1,96,110,Hypothermia,"Warm fluids, blankets, medical attention"
+35.8,66,101,Normal,None
+35.0,91,89,Hypothermia,"Warm fluids, blankets, medical attention"
+37.3,98,84,Hypotension,"Increase salt intake, fluids"
+37.5,92,99,Normal,None
+34.9,112,106,Hypothermia,"Warm fluids, blankets, medical attention"
+36.8,87,113,Normal,None
+34.7,83,101,Hypothermia,"Warm fluids, blankets, medical attention"
+37.6,74,139,Fever,Paracetamol
+36.3,76,88,Hypotension,"Increase salt intake, fluids"
+36.7,100,107,Normal,None
+39.2,82,89,Fever,Paracetamol
+34.6,88,129,Hypothermia,"Warm fluids, blankets, medical attention"
+36.8,100,83,Hypotension,"Increase salt intake, fluids"
+35.5,107,99,Tachycardia,"Beta-blockers, reduce stress"
+38.8,54,89,Fever,Paracetamol
+38.4,119,111,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+37.2,86,137,Hypertension,"Antihypertensive drugs, lifestyle changes"
+38.2,62,107,Fever,Paracetamol
+37.9,109,125,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+39.3,51,91,Fever,Paracetamol
+34.8,52,127,Hypothermia,"Warm fluids, blankets, medical attention"
+38.8,75,87,Fever,Paracetamol
+35.6,68,131,Hypertension,"Antihypertensive drugs, lifestyle changes"
+38.4,100,102,Fever,Paracetamol
+35.9,91,105,Normal,None
+34.7,111,136,Hypothermia,"Warm fluids, blankets, medical attention"
+37.7,81,103,Fever,Paracetamol
+36.6,72,99,Normal,None
+37.3,94,126,Normal,None
+36.3,63,126,Normal,None
+38.8,72,92,Fever,Paracetamol
+35.8,82,122,Normal,None
+38.5,119,115,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+36.7,74,107,Normal,None
+34.6,81,98,Hypothermia,"Warm fluids, blankets, medical attention"
+39.4,80,128,Fever,Paracetamol
+38.7,120,96,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+38.9,87,135,Fever,Paracetamol
+38.2,87,84,Fever,Paracetamol
+35.6,108,139,Hypertension,"Antihypertensive drugs, lifestyle changes"
+36.7,119,132,Hypertension,"Antihypertensive drugs, lifestyle changes"
+37.4,50,102,Bradycardia,Medical evaluation
+37.7,79,126,Fever,Paracetamol
+34.9,101,135,Hypothermia,"Warm fluids, blankets, medical attention"
+38.5,73,88,Fever,Paracetamol
+37.5,87,125,Normal,None
+36.8,70,120,Normal,None
+38.5,114,130,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+38.9,58,115,Fever,Paracetamol
+39.3,68,133,Fever,Paracetamol
+38.2,56,126,Fever,Paracetamol
+35.7,63,92,Normal,None
+34.5,63,94,Hypothermia,"Warm fluids, blankets, medical attention"
+38.8,90,114,Fever,Paracetamol
+39.4,106,97,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+39.1,110,123,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+36.3,85,125,Normal,None
+35.5,91,99,Normal,None
+38.5,100,95,Fever,Paracetamol
+34.5,109,133,Hypothermia,"Warm fluids, blankets, medical attention"
+37.6,68,81,Fever,Paracetamol
+39.5,83,106,Fever,Paracetamol
+38.7,64,113,Fever,Paracetamol
+36.6,91,91,Normal,None
+35.8,59,113,Bradycardia,Medical evaluation
+35.1,92,106,Hypothermia,"Warm fluids, blankets, medical attention"
+38.4,101,111,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+36.3,90,100,Normal,None
+36.0,94,117,Normal,None
+39.1,108,110,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+38.6,57,100,Fever,Paracetamol
+35.2,71,126,Hypothermia,"Warm fluids, blankets, medical attention"
+35.5,84,102,Normal,None
+39.4,76,83,Fever,Paracetamol
+37.1,71,87,Hypotension,"Increase salt intake, fluids"
+38.3,107,99,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+34.8,51,139,Hypothermia,"Warm fluids, blankets, medical attention"
+36.7,97,119,Normal,None
+37.0,118,101,Tachycardia,"Beta-blockers, reduce stress"
+39.2,63,108,Fever,Paracetamol
+35.1,106,133,Hypothermia,"Warm fluids, blankets, medical attention"
+39.1,119,89,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+36.2,84,127,Normal,None
+37.5,84,137,Hypertension,"Antihypertensive drugs, lifestyle changes"
+34.8,101,103,Hypothermia,"Warm fluids, blankets, medical attention"
+38.6,118,92,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+36.3,113,127,Tachycardia,"Beta-blockers, reduce stress"
+34.5,79,129,Hypothermia,"Warm fluids, blankets, medical attention"
+35.5,73,134,Hypertension,"Antihypertensive drugs, lifestyle changes"
+35.3,86,107,Hypothermia,"Warm fluids, blankets, medical attention"
+35.8,105,90,Tachycardia,"Beta-blockers, reduce stress"
+37.8,102,93,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+36.2,59,114,Bradycardia,Medical evaluation
+35.6,54,130,Bradycardia,Medical evaluation
+35.3,63,96,Hypothermia,"Warm fluids, blankets, medical attention"
+38.3,77,111,Fever,Paracetamol
+37.8,56,120,Fever,Paracetamol
+36.2,70,116,Normal,None
+37.3,101,86,Hypotension,"Increase salt intake, fluids"
+37.6,75,138,Fever,Paracetamol
+36.8,119,95,Tachycardia,"Beta-blockers, reduce stress"
+39.4,66,125,Fever,Paracetamol
+39.0,52,120,Fever,Paracetamol
+36.8,94,131,Hypertension,"Antihypertensive drugs, lifestyle changes"
+36.4,70,83,Hypotension,"Increase salt intake, fluids"
+37.8,67,124,Fever,Paracetamol
+34.5,111,85,Hypothermia,"Warm fluids, blankets, medical attention"
+39.4,110,122,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+36.0,72,115,Normal,None
+37.9,73,96,Fever,Paracetamol
+35.8,116,122,Tachycardia,"Beta-blockers, reduce stress"
+38.0,108,134,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+38.9,104,108,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+36.7,113,105,Tachycardia,"Beta-blockers, reduce stress"
+38.4,69,137,Fever,Paracetamol
+37.7,96,96,Fever,Paracetamol
+38.3,68,108,Fever,Paracetamol
+35.9,106,137,Hypertension,"Antihypertensive drugs, lifestyle changes"
+35.1,103,123,Hypothermia,"Warm fluids, blankets, medical attention"
+36.5,101,127,Tachycardia,"Beta-blockers, reduce stress"
+39.4,79,123,Fever,Paracetamol
+34.7,74,131,Hypothermia,"Warm fluids, blankets, medical attention"
+35.9,81,124,Normal,None
+37.3,96,109,Normal,None
+34.5,60,109,Hypothermia,"Warm fluids, blankets, medical attention"
+35.4,79,106,Hypothermia,"Warm fluids, blankets, medical attention"
+37.6,54,123,Fever,Paracetamol
+37.2,70,131,Hypertension,"Antihypertensive drugs, lifestyle changes"
+38.8,83,127,Fever,Paracetamol
+37.5,57,110,Bradycardia,Medical evaluation
+36.4,79,108,Normal,None
+36.4,84,110,Normal,None
+34.6,117,101,Hypothermia,"Warm fluids, blankets, medical attention"
+36.8,95,96,Normal,None
+38.3,69,139,Fever,Paracetamol
+35.0,72,132,Hypothermia,"Warm fluids, blankets, medical attention"
+36.4,108,98,Tachycardia,"Beta-blockers, reduce stress"
+36.4,79,128,Normal,None
+39.1,57,112,Fever,Paracetamol
+37.4,104,121,Tachycardia,"Beta-blockers, reduce stress"
+38.2,76,82,Fever,Paracetamol
+39.4,91,106,Fever,Paracetamol
+34.7,56,117,Hypothermia,"Warm fluids, blankets, medical attention"
+35.8,56,126,Bradycardia,Medical evaluation
+36.3,114,89,Hypotension,"Increase salt intake, fluids"
+36.3,84,129,Normal,None
+36.1,117,118,Tachycardia,"Beta-blockers, reduce stress"
+39.4,65,126,Fever,Paracetamol
+37.9,103,109,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+38.3,112,97,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+35.0,54,124,Hypothermia,"Warm fluids, blankets, medical attention"
+35.7,98,120,Normal,None
+35.7,102,129,Tachycardia,"Beta-blockers, reduce stress"
+38.7,99,117,Fever,Paracetamol
+36.4,114,87,Hypotension,"Increase salt intake, fluids"
+37.6,78,85,Fever,Paracetamol
+35.0,65,116,Hypothermia,"Warm fluids, blankets, medical attention"
+38.9,82,91,Fever,Paracetamol
+35.0,57,121,Hypothermia,"Warm fluids, blankets, medical attention"
+36.4,68,107,Normal,None
+36.1,80,95,Normal,None
+34.9,100,102,Hypothermia,"Warm fluids, blankets, medical attention"
+36.0,100,139,Hypertension,"Antihypertensive drugs, lifestyle changes"
+34.7,84,122,Hypothermia,"Warm fluids, blankets, medical attention"
+35.7,82,109,Normal,None
+34.7,60,133,Hypothermia,"Warm fluids, blankets, medical attention"
+37.6,92,84,Fever,Paracetamol
+38.5,84,92,Fever,Paracetamol
+38.9,100,136,Fever,Paracetamol
+37.5,81,119,Normal,None
+36.4,90,115,Normal,None
+38.1,64,98,Fever,Paracetamol
+35.9,90,110,Normal,None
+39.0,73,95,Fever,Paracetamol
+36.5,98,132,Hypertension,"Antihypertensive drugs, lifestyle changes"
+37.1,63,137,Hypertension,"Antihypertensive drugs, lifestyle changes"
+36.2,69,115,Normal,None
+37.1,56,139,Hypertension,"Antihypertensive drugs, lifestyle changes"
+35.9,113,127,Tachycardia,"Beta-blockers, reduce stress"
+38.9,91,124,Fever,Paracetamol
+36.9,107,120,Tachycardia,"Beta-blockers, reduce stress"
+37.2,84,138,Hypertension,"Antihypertensive drugs, lifestyle changes"
+39.3,98,101,Fever,Paracetamol
+37.7,119,140,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+36.5,72,82,Hypotension,"Increase salt intake, fluids"
+37.7,55,115,Fever,Paracetamol
+36.6,52,81,Hypotension,"Increase salt intake, fluids"
+38.3,99,129,Fever,Paracetamol
+39.4,85,87,Fever,Paracetamol
+35.2,70,118,Hypothermia,"Warm fluids, blankets, medical attention"
+34.5,51,95,Hypothermia,"Warm fluids, blankets, medical attention"
+38.6,96,132,Fever,Paracetamol
+39.1,55,99,Fever,Paracetamol
+35.9,97,118,Normal,None
+38.4,112,138,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+38.2,70,87,Fever,Paracetamol
+34.7,114,136,Hypothermia,"Warm fluids, blankets, medical attention"
+37.3,86,91,Normal,None
+37.4,99,82,Hypotension,"Increase salt intake, fluids"
+38.1,90,119,Fever,Paracetamol
+36.4,53,131,Hypertension,"Antihypertensive drugs, lifestyle changes"
+35.4,94,95,Hypothermia,"Warm fluids, blankets, medical attention"
+38.3,108,133,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+36.8,97,129,Normal,None
+35.5,86,90,Normal,None
+35.2,119,94,Hypothermia,"Warm fluids, blankets, medical attention"
+36.5,78,104,Normal,None
+36.0,107,104,Tachycardia,"Beta-blockers, reduce stress"
+38.0,98,99,Fever,Paracetamol
+34.9,96,116,Hypothermia,"Warm fluids, blankets, medical attention"
+35.4,61,86,Hypothermia,"Warm fluids, blankets, medical attention"
+34.9,59,124,Hypothermia,"Warm fluids, blankets, medical attention"
+38.5,81,117,Fever,Paracetamol
+38.7,60,112,Fever,Paracetamol
+34.7,67,140,Hypothermia,"Warm fluids, blankets, medical attention"
+35.8,69,124,Normal,None
+35.4,106,96,Hypothermia,"Warm fluids, blankets, medical attention"
+38.6,81,94,Fever,Paracetamol
+34.9,80,111,Hypothermia,"Warm fluids, blankets, medical attention"
+39.3,108,124,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+37.1,55,95,Bradycardia,Medical evaluation
+37.9,110,94,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+36.4,99,80,Hypotension,"Increase salt intake, fluids"
+35.9,66,108,Normal,None
+34.7,69,97,Hypothermia,"Warm fluids, blankets, medical attention"
+36.0,53,101,Bradycardia,Medical evaluation
+39.1,98,108,Fever,Paracetamol
+38.2,76,117,Fever,Paracetamol
+36.0,84,135,Hypertension,"Antihypertensive drugs, lifestyle changes"
+35.1,97,84,Hypothermia,"Warm fluids, blankets, medical attention"
+37.4,87,132,Hypertension,"Antihypertensive drugs, lifestyle changes"
+37.4,53,110,Bradycardia,Medical evaluation
+37.9,70,123,Fever,Paracetamol
+39.3,105,134,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+39.0,90,83,Fever,Paracetamol
+35.8,117,101,Tachycardia,"Beta-blockers, reduce stress"
+35.1,86,133,Hypothermia,"Warm fluids, blankets, medical attention"
+37.4,95,115,Normal,None
+34.9,110,98,Hypothermia,"Warm fluids, blankets, medical attention"
+37.1,88,84,Hypotension,"Increase salt intake, fluids"
+36.7,89,131,Hypertension,"Antihypertensive drugs, lifestyle changes"
+36.4,84,139,Hypertension,"Antihypertensive drugs, lifestyle changes"
+35.1,82,90,Hypothermia,"Warm fluids, blankets, medical attention"
+37.0,63,124,Normal,None
+38.1,76,135,Fever,Paracetamol
+38.7,106,126,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+36.6,103,133,Hypertension,"Antihypertensive drugs, lifestyle changes"
+34.6,90,105,Hypothermia,"Warm fluids, blankets, medical attention"
+37.7,120,101,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+35.0,81,111,Hypothermia,"Warm fluids, blankets, medical attention"
+35.3,51,123,Hypothermia,"Warm fluids, blankets, medical attention"
+38.1,115,131,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+34.7,117,137,Hypothermia,"Warm fluids, blankets, medical attention"
+39.2,92,104,Fever,Paracetamol
+38.4,116,128,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+38.0,88,115,Fever,Paracetamol
+34.7,60,132,Hypothermia,"Warm fluids, blankets, medical attention"
+35.9,96,97,Normal,None
+37.6,55,139,Fever,Paracetamol
+39.3,77,116,Fever,Paracetamol
+37.6,61,134,Fever,Paracetamol
+36.4,75,109,Normal,None
+38.6,81,87,Fever,Paracetamol
+36.7,87,90,Normal,None
+39.5,117,120,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+36.5,103,126,Tachycardia,"Beta-blockers, reduce stress"
+35.5,93,83,Hypotension,"Increase salt intake, fluids"
+37.2,86,105,Normal,None
+35.1,79,127,Hypothermia,"Warm fluids, blankets, medical attention"
+36.8,110,104,Tachycardia,"Beta-blockers, reduce stress"
+35.4,118,84,Hypothermia,"Warm fluids, blankets, medical attention"
+37.5,107,102,Tachycardia,"Beta-blockers, reduce stress"
+35.4,94,88,Hypothermia,"Warm fluids, blankets, medical attention"
+38.5,77,94,Fever,Paracetamol
+36.6,84,120,Normal,None
+34.9,96,107,Hypothermia,"Warm fluids, blankets, medical attention"
+34.9,92,83,Hypothermia,"Warm fluids, blankets, medical attention"
+38.1,65,118,Fever,Paracetamol
+35.0,61,139,Hypothermia,"Warm fluids, blankets, medical attention"
+36.3,70,113,Normal,None
+38.3,103,106,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+38.4,87,120,Fever,Paracetamol
+34.9,90,134,Hypothermia,"Warm fluids, blankets, medical attention"
+36.4,115,111,Tachycardia,"Beta-blockers, reduce stress"
+39.5,119,107,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+39.2,81,86,Fever,Paracetamol
+37.9,58,89,Fever,Paracetamol
+37.2,103,105,Tachycardia,"Beta-blockers, reduce stress"
+38.9,68,130,Fever,Paracetamol
+38.1,83,96,Fever,Paracetamol
+37.5,83,132,Hypertension,"Antihypertensive drugs, lifestyle changes"
+39.1,118,137,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+34.8,119,129,Hypothermia,"Warm fluids, blankets, medical attention"
+35.4,52,113,Hypothermia,"Warm fluids, blankets, medical attention"
+37.9,76,116,Fever,Paracetamol
+36.4,83,103,Normal,None
+39.0,106,107,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+36.1,61,90,Normal,None
+37.4,55,140,Hypertension,"Antihypertensive drugs, lifestyle changes"
+37.5,54,93,Bradycardia,Medical evaluation
+37.1,62,130,Normal,None
+34.7,105,131,Hypothermia,"Warm fluids, blankets, medical attention"
+39.4,56,87,Fever,Paracetamol
+36.9,120,119,Tachycardia,"Beta-blockers, reduce stress"
+35.5,57,88,Hypotension,"Increase salt intake, fluids"
+37.4,75,126,Normal,None
+34.5,81,100,Hypothermia,"Warm fluids, blankets, medical attention"
+38.2,87,87,Fever,Paracetamol
+38.2,69,93,Fever,Paracetamol
+38.4,100,97,Fever,Paracetamol
+38.1,59,115,Fever,Paracetamol
+36.8,52,116,Bradycardia,Medical evaluation
+35.8,92,82,Hypotension,"Increase salt intake, fluids"
+35.6,95,97,Normal,None
+36.6,104,87,Hypotension,"Increase salt intake, fluids"
+36.2,69,100,Normal,None
+37.9,67,105,Fever,Paracetamol
+35.4,54,90,Hypothermia,"Warm fluids, blankets, medical attention"
+35.5,104,122,Tachycardia,"Beta-blockers, reduce stress"
+35.7,110,140,Hypertension,"Antihypertensive drugs, lifestyle changes"
+35.8,93,103,Normal,None
+39.0,84,125,Fever,Paracetamol
+36.0,62,111,Normal,None
+37.4,69,121,Normal,None
+36.1,59,80,Hypotension,"Increase salt intake, fluids"
+36.7,52,122,Bradycardia,Medical evaluation
+35.5,60,127,Normal,None
+36.3,99,89,Hypotension,"Increase salt intake, fluids"
+36.1,97,124,Normal,None
+35.2,76,113,Hypothermia,"Warm fluids, blankets, medical attention"
+39.4,60,112,Fever,Paracetamol
+36.0,79,101,Normal,None
+38.2,113,128,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+38.2,77,136,Fever,Paracetamol
+35.5,59,120,Bradycardia,Medical evaluation
+35.5,110,139,Hypertension,"Antihypertensive drugs, lifestyle changes"
+36.3,110,125,Tachycardia,"Beta-blockers, reduce stress"
+36.0,104,96,Tachycardia,"Beta-blockers, reduce stress"
+35.6,117,129,Tachycardia,"Beta-blockers, reduce stress"
+37.1,91,94,Normal,None
+39.5,80,111,Fever,Paracetamol
+36.9,92,138,Hypertension,"Antihypertensive drugs, lifestyle changes"
+35.9,65,86,Hypotension,"Increase salt intake, fluids"
+35.2,94,91,Hypothermia,"Warm fluids, blankets, medical attention"
+37.4,56,116,Bradycardia,Medical evaluation
+39.1,71,130,Fever,Paracetamol
+39.1,115,106,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+35.0,51,112,Hypothermia,"Warm fluids, blankets, medical attention"
+34.9,97,105,Hypothermia,"Warm fluids, blankets, medical attention"
+38.8,90,110,Fever,Paracetamol
+36.8,94,130,Normal,None
+38.4,109,86,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+36.6,89,108,Normal,None
+38.5,85,139,Fever,Paracetamol
+39.0,110,96,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+36.5,102,100,Tachycardia,"Beta-blockers, reduce stress"
+37.9,51,89,Fever,Paracetamol
+37.3,113,116,Tachycardia,"Beta-blockers, reduce stress"
+39.5,94,90,Fever,Paracetamol
+35.4,77,140,Hypothermia,"Warm fluids, blankets, medical attention"
+38.5,67,103,Fever,Paracetamol
+35.7,96,122,Normal,None
+36.0,115,107,Tachycardia,"Beta-blockers, reduce stress"
+37.0,64,99,Normal,None
+36.5,56,92,Bradycardia,Medical evaluation
+36.5,102,109,Tachycardia,"Beta-blockers, reduce stress"
+35.7,80,100,Normal,None
+38.5,94,95,Fever,Paracetamol
+38.4,110,99,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+36.8,83,127,Normal,None
+35.9,81,84,Hypotension,"Increase salt intake, fluids"
+37.7,71,105,Fever,Paracetamol
+38.6,81,127,Fever,Paracetamol
+38.0,68,109,Fever,Paracetamol
+38.1,96,123,Fever,Paracetamol
+36.6,62,110,Normal,None
+34.9,52,89,Hypothermia,"Warm fluids, blankets, medical attention"
+38.1,97,104,Fever,Paracetamol
+38.7,104,97,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+37.5,89,124,Normal,None
+37.8,55,124,Fever,Paracetamol
+35.6,104,103,Tachycardia,"Beta-blockers, reduce stress"
+38.1,63,106,Fever,Paracetamol
+38.2,113,87,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+39.5,65,90,Fever,Paracetamol
+35.8,64,124,Normal,None
+37.1,119,80,Hypotension,"Increase salt intake, fluids"
+37.6,63,112,Fever,Paracetamol
+38.1,89,97,Fever,Paracetamol
+35.6,73,108,Normal,None
+35.9,72,106,Normal,None
+38.2,63,130,Fever,Paracetamol
+36.2,94,131,Hypertension,"Antihypertensive drugs, lifestyle changes"
+38.4,84,83,Fever,Paracetamol
+36.7,70,127,Normal,None
+39.1,114,104,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+34.7,96,95,Hypothermia,"Warm fluids, blankets, medical attention"
+37.7,114,105,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+39.3,76,120,Fever,Paracetamol
+37.9,93,128,Fever,Paracetamol
+38.1,112,82,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+36.9,50,113,Bradycardia,Medical evaluation
+36.5,112,124,Tachycardia,"Beta-blockers, reduce stress"
+37.4,104,96,Tachycardia,"Beta-blockers, reduce stress"
+35.5,98,133,Hypertension,"Antihypertensive drugs, lifestyle changes"
+37.9,72,138,Fever,Paracetamol
+37.2,65,112,Normal,None
+36.6,114,115,Tachycardia,"Beta-blockers, reduce stress"
+36.9,87,134,Hypertension,"Antihypertensive drugs, lifestyle changes"
+37.8,95,137,Fever,Paracetamol
+37.4,66,82,Hypotension,"Increase salt intake, fluids"
+34.6,59,104,Hypothermia,"Warm fluids, blankets, medical attention"
+38.9,78,111,Fever,Paracetamol
+34.8,53,118,Hypothermia,"Warm fluids, blankets, medical attention"
+37.3,76,88,Hypotension,"Increase salt intake, fluids"
+35.6,72,110,Normal,None
+36.3,83,136,Hypertension,"Antihypertensive drugs, lifestyle changes"
+39.3,100,107,Fever,Paracetamol
+36.6,76,135,Hypertension,"Antihypertensive drugs, lifestyle changes"
+38.5,96,109,Fever,Paracetamol
+37.2,115,95,Tachycardia,"Beta-blockers, reduce stress"
+36.4,102,134,Hypertension,"Antihypertensive drugs, lifestyle changes"
+39.0,91,122,Fever,Paracetamol
+38.3,119,110,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+37.3,81,108,Normal,None
+39.2,109,116,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+37.5,99,139,Hypertension,"Antihypertensive drugs, lifestyle changes"
+35.9,119,128,Tachycardia,"Beta-blockers, reduce stress"
+35.9,76,111,Normal,None
+37.3,55,121,Bradycardia,Medical evaluation
+34.7,77,120,Hypothermia,"Warm fluids, blankets, medical attention"
+39.3,95,107,Fever,Paracetamol
+38.0,87,139,Fever,Paracetamol
+37.2,77,129,Normal,None
+38.0,50,111,Fever,Paracetamol
+34.7,109,119,Hypothermia,"Warm fluids, blankets, medical attention"
+38.1,52,104,Fever,Paracetamol
+37.1,89,127,Normal,None
+37.8,69,90,Fever,Paracetamol
+34.6,70,85,Hypothermia,"Warm fluids, blankets, medical attention"
+39.3,94,83,Fever,Paracetamol
+37.1,53,113,Bradycardia,Medical evaluation
+39.3,98,121,Fever,Paracetamol
+34.8,97,105,Hypothermia,"Warm fluids, blankets, medical attention"
+34.8,76,131,Hypothermia,"Warm fluids, blankets, medical attention"
+37.5,73,104,Normal,None
+36.5,57,135,Hypertension,"Antihypertensive drugs, lifestyle changes"
+39.1,83,95,Fever,Paracetamol
+36.9,81,85,Hypotension,"Increase salt intake, fluids"
+37.3,106,98,Tachycardia,"Beta-blockers, reduce stress"
+37.7,58,140,Fever,Paracetamol
+38.1,53,124,Fever,Paracetamol
+36.8,94,97,Normal,None
+35.4,83,136,Hypothermia,"Warm fluids, blankets, medical attention"
+35.1,117,130,Hypothermia,"Warm fluids, blankets, medical attention"
+34.7,60,95,Hypothermia,"Warm fluids, blankets, medical attention"
+34.8,114,100,Hypothermia,"Warm fluids, blankets, medical attention"
+36.3,66,84,Hypotension,"Increase salt intake, fluids"
+38.7,120,136,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+38.5,96,97,Fever,Paracetamol
+36.9,82,104,Normal,None
+37.4,84,134,Hypertension,"Antihypertensive drugs, lifestyle changes"
+38.6,84,120,Fever,Paracetamol
+35.4,86,137,Hypothermia,"Warm fluids, blankets, medical attention"
+36.8,112,123,Tachycardia,"Beta-blockers, reduce stress"
+38.4,118,87,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+36.0,57,82,Hypotension,"Increase salt intake, fluids"
+37.5,83,83,Hypotension,"Increase salt intake, fluids"
+37.7,67,112,Fever,Paracetamol
+34.6,80,114,Hypothermia,"Warm fluids, blankets, medical attention"
+34.8,62,94,Hypothermia,"Warm fluids, blankets, medical attention"
+35.9,85,108,Normal,None
+35.7,112,110,Tachycardia,"Beta-blockers, reduce stress"
+37.4,80,102,Normal,None
+37.3,54,90,Bradycardia,Medical evaluation
+35.6,119,82,Hypotension,"Increase salt intake, fluids"
+38.9,103,112,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+36.2,79,98,Normal,None
+34.8,104,92,Hypothermia,"Warm fluids, blankets, medical attention"
+39.0,104,119,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+36.2,71,140,Hypertension,"Antihypertensive drugs, lifestyle changes"
+37.6,77,90,Fever,Paracetamol
+36.9,71,84,Hypotension,"Increase salt intake, fluids"
+39.0,95,96,Fever,Paracetamol
+35.8,69,115,Normal,None
+35.8,114,109,Tachycardia,"Beta-blockers, reduce stress"
+35.8,87,84,Hypotension,"Increase salt intake, fluids"
+39.1,53,119,Fever,Paracetamol
+38.1,116,114,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+35.0,96,137,Hypothermia,"Warm fluids, blankets, medical attention"
+37.0,63,117,Normal,None
+39.1,77,136,Fever,Paracetamol
+34.9,100,137,Hypothermia,"Warm fluids, blankets, medical attention"
+35.2,80,105,Hypothermia,"Warm fluids, blankets, medical attention"
+37.8,58,84,Fever,Paracetamol
+36.6,109,129,Tachycardia,"Beta-blockers, reduce stress"
+37.1,53,133,Hypertension,"Antihypertensive drugs, lifestyle changes"
+38.1,84,115,Fever,Paracetamol
+36.4,104,80,Hypotension,"Increase salt intake, fluids"
+35.3,85,124,Hypothermia,"Warm fluids, blankets, medical attention"
+35.6,94,106,Normal,None
+34.6,70,81,Hypothermia,"Warm fluids, blankets, medical attention"
+37.5,97,82,Hypotension,"Increase salt intake, fluids"
+38.0,67,115,Fever,Paracetamol
+36.0,67,93,Normal,None
+37.9,86,102,Fever,Paracetamol
+39.4,85,132,Fever,Paracetamol
+39.4,115,86,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+35.6,94,124,Normal,None
+36.5,118,131,Hypertension,"Antihypertensive drugs, lifestyle changes"
+39.1,97,139,Fever,Paracetamol
+38.2,100,97,Fever,Paracetamol
+39.5,66,87,Fever,Paracetamol
+38.6,112,90,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+39.0,93,116,Fever,Paracetamol
+37.3,83,108,Normal,None
+37.6,69,130,Fever,Paracetamol
+34.8,89,100,Hypothermia,"Warm fluids, blankets, medical attention"
+39.3,51,115,Fever,Paracetamol
+35.6,64,125,Normal,None
+35.7,61,85,Hypotension,"Increase salt intake, fluids"
+35.6,106,124,Tachycardia,"Beta-blockers, reduce stress"
+36.1,77,124,Normal,None
+35.3,63,136,Hypothermia,"Warm fluids, blankets, medical attention"
+36.0,75,82,Hypotension,"Increase salt intake, fluids"
+38.4,58,131,Fever,Paracetamol
+34.6,104,102,Hypothermia,"Warm fluids, blankets, medical attention"
+34.5,50,132,Hypothermia,"Warm fluids, blankets, medical attention"
+36.1,58,83,Hypotension,"Increase salt intake, fluids"
+34.5,119,115,Hypothermia,"Warm fluids, blankets, medical attention"
+37.9,96,129,Fever,Paracetamol
+38.4,62,128,Fever,Paracetamol
+37.7,52,91,Fever,Paracetamol
+36.1,60,115,Normal,None
+36.5,73,138,Hypertension,"Antihypertensive drugs, lifestyle changes"
+37.4,64,135,Hypertension,"Antihypertensive drugs, lifestyle changes"
+37.4,59,129,Bradycardia,Medical evaluation
+36.1,119,87,Hypotension,"Increase salt intake, fluids"
+35.6,70,127,Normal,None
+39.0,120,89,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+35.9,54,119,Bradycardia,Medical evaluation
+34.6,120,135,Hypothermia,"Warm fluids, blankets, medical attention"
+38.2,59,124,Fever,Paracetamol
+38.8,108,122,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+37.6,100,140,Fever,Paracetamol
+35.3,83,93,Hypothermia,"Warm fluids, blankets, medical attention"
+35.6,67,100,Normal,None
+39.3,75,86,Fever,Paracetamol
+36.6,55,110,Bradycardia,Medical evaluation
+37.6,79,105,Fever,Paracetamol
+36.4,60,96,Normal,None
+36.9,118,92,Tachycardia,"Beta-blockers, reduce stress"
+39.3,117,109,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+36.1,65,115,Normal,None
+38.8,114,98,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+37.2,96,133,Hypertension,"Antihypertensive drugs, lifestyle changes"
+37.0,66,87,Hypotension,"Increase salt intake, fluids"
+34.9,57,85,Hypothermia,"Warm fluids, blankets, medical attention"
+35.5,111,137,Hypertension,"Antihypertensive drugs, lifestyle changes"
+35.8,93,115,Normal,None
+37.6,62,120,Fever,Paracetamol
+35.2,85,88,Hypothermia,"Warm fluids, blankets, medical attention"
+35.8,68,122,Normal,None
+35.7,107,121,Tachycardia,"Beta-blockers, reduce stress"
+37.8,83,112,Fever,Paracetamol
+35.4,52,127,Hypothermia,"Warm fluids, blankets, medical attention"
+37.4,67,89,Hypotension,"Increase salt intake, fluids"
+37.6,95,112,Fever,Paracetamol
+37.9,67,112,Fever,Paracetamol
+36.7,81,102,Normal,None
+37.2,94,92,Normal,None
+37.1,62,129,Normal,None
+35.1,93,117,Hypothermia,"Warm fluids, blankets, medical attention"
+36.7,83,129,Normal,None
+38.6,76,106,Fever,Paracetamol
+38.1,111,120,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+37.9,67,123,Fever,Paracetamol
+37.7,80,111,Fever,Paracetamol
+35.7,119,130,Tachycardia,"Beta-blockers, reduce stress"
+34.6,56,96,Hypothermia,"Warm fluids, blankets, medical attention"
+35.9,108,119,Tachycardia,"Beta-blockers, reduce stress"
+38.2,117,108,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+35.9,57,94,Bradycardia,Medical evaluation
+37.5,85,132,Hypertension,"Antihypertensive drugs, lifestyle changes"
+38.3,102,83,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+36.6,96,136,Hypertension,"Antihypertensive drugs, lifestyle changes"
+38.4,113,132,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+35.6,109,95,Tachycardia,"Beta-blockers, reduce stress"
+39.5,52,108,Fever,Paracetamol
+36.7,117,134,Hypertension,"Antihypertensive drugs, lifestyle changes"
+35.2,50,111,Hypothermia,"Warm fluids, blankets, medical attention"
+38.0,102,110,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+37.9,59,119,Fever,Paracetamol
+39.3,104,129,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+38.2,99,131,Fever,Paracetamol
+37.9,118,139,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+38.6,97,137,Fever,Paracetamol
+38.0,69,103,Fever,Paracetamol
+35.3,69,84,Hypothermia,"Warm fluids, blankets, medical attention"
+35.0,71,137,Hypothermia,"Warm fluids, blankets, medical attention"
+37.9,61,101,Fever,Paracetamol
+35.2,120,117,Hypothermia,"Warm fluids, blankets, medical attention"
+36.0,70,118,Normal,None
+36.7,67,139,Hypertension,"Antihypertensive drugs, lifestyle changes"
+38.5,72,99,Fever,Paracetamol
+34.5,97,80,Hypothermia,"Warm fluids, blankets, medical attention"
+38.1,114,81,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+35.7,80,121,Normal,None
+39.4,57,86,Fever,Paracetamol
+34.5,120,89,Hypothermia,"Warm fluids, blankets, medical attention"
+35.2,83,85,Hypothermia,"Warm fluids, blankets, medical attention"
+34.7,62,102,Hypothermia,"Warm fluids, blankets, medical attention"
+38.8,119,111,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+35.8,74,95,Normal,None
+37.6,57,82,Fever,Paracetamol
+36.3,90,94,Normal,None
+34.8,67,132,Hypothermia,"Warm fluids, blankets, medical attention"
+37.4,61,97,Normal,None
+38.2,89,106,Fever,Paracetamol
+34.7,101,82,Hypothermia,"Warm fluids, blankets, medical attention"
+35.6,117,94,Tachycardia,"Beta-blockers, reduce stress"
+36.5,114,115,Tachycardia,"Beta-blockers, reduce stress"
+39.1,95,97,Fever,Paracetamol
+39.4,84,101,Fever,Paracetamol
+37.0,118,87,Hypotension,"Increase salt intake, fluids"
+39.3,102,108,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+37.0,73,82,Hypotension,"Increase salt intake, fluids"
+38.5,102,111,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+36.1,54,137,Hypertension,"Antihypertensive drugs, lifestyle changes"
+38.3,60,118,Fever,Paracetamol
+36.2,116,134,Hypertension,"Antihypertensive drugs, lifestyle changes"
+34.6,61,127,Hypothermia,"Warm fluids, blankets, medical attention"
+39.5,56,134,Fever,Paracetamol
+37.6,91,117,Fever,Paracetamol
+39.1,88,96,Fever,Paracetamol
+38.7,101,102,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+36.4,57,140,Hypertension,"Antihypertensive drugs, lifestyle changes"
+38.0,93,136,Fever,Paracetamol
+34.5,111,83,Hypothermia,"Warm fluids, blankets, medical attention"
+34.9,51,134,Hypothermia,"Warm fluids, blankets, medical attention"
+36.6,104,140,Hypertension,"Antihypertensive drugs, lifestyle changes"
+35.9,63,113,Normal,None
+34.7,57,106,Hypothermia,"Warm fluids, blankets, medical attention"
+36.2,119,105,Tachycardia,"Beta-blockers, reduce stress"
+38.7,76,99,Fever,Paracetamol
+36.4,118,130,Tachycardia,"Beta-blockers, reduce stress"
+38.2,58,114,Fever,Paracetamol
+36.1,63,114,Normal,None
+36.5,55,133,Hypertension,"Antihypertensive drugs, lifestyle changes"
+37.5,50,123,Bradycardia,Medical evaluation
+35.8,89,96,Normal,None
+35.4,50,95,Hypothermia,"Warm fluids, blankets, medical attention"
+36.0,92,110,Normal,None
+38.1,72,95,Fever,Paracetamol
+37.8,55,117,Fever,Paracetamol
+34.9,116,106,Hypothermia,"Warm fluids, blankets, medical attention"
+34.9,77,89,Hypothermia,"Warm fluids, blankets, medical attention"
+34.8,114,107,Hypothermia,"Warm fluids, blankets, medical attention"
+36.7,71,138,Hypertension,"Antihypertensive drugs, lifestyle changes"
+38.1,109,107,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+34.9,101,88,Hypothermia,"Warm fluids, blankets, medical attention"
+38.2,69,121,Fever,Paracetamol
+37.3,110,123,Tachycardia,"Beta-blockers, reduce stress"
+38.1,100,112,Fever,Paracetamol
+38.3,73,128,Fever,Paracetamol
+37.5,93,123,Normal,None
+37.4,59,127,Bradycardia,Medical evaluation
+37.9,120,137,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+35.2,89,84,Hypothermia,"Warm fluids, blankets, medical attention"
+37.4,90,138,Hypertension,"Antihypertensive drugs, lifestyle changes"
+35.9,94,106,Normal,None
+39.4,78,89,Fever,Paracetamol
+38.3,52,91,Fever,Paracetamol
+38.0,81,105,Fever,Paracetamol
+36.8,62,97,Normal,None
+37.9,70,129,Fever,Paracetamol
+35.9,88,84,Hypotension,"Increase salt intake, fluids"
+37.1,84,92,Normal,None
+38.3,114,103,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+34.9,53,81,Hypothermia,"Warm fluids, blankets, medical attention"
+36.3,89,91,Normal,None
+39.4,73,100,Fever,Paracetamol
+36.6,113,109,Tachycardia,"Beta-blockers, reduce stress"
+34.6,105,122,Hypothermia,"Warm fluids, blankets, medical attention"
+38.8,57,139,Fever,Paracetamol
+35.9,92,130,Normal,None
+37.7,81,125,Fever,Paracetamol
+34.9,51,84,Hypothermia,"Warm fluids, blankets, medical attention"
+36.0,73,101,Normal,None
+35.0,87,131,Hypothermia,"Warm fluids, blankets, medical attention"
+38.9,116,136,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+36.7,69,126,Normal,None
+37.0,68,138,Hypertension,"Antihypertensive drugs, lifestyle changes"
+39.0,78,123,Fever,Paracetamol
+39.1,69,136,Fever,Paracetamol
+34.9,85,132,Hypothermia,"Warm fluids, blankets, medical attention"
+36.0,107,116,Tachycardia,"Beta-blockers, reduce stress"
+38.5,71,102,Fever,Paracetamol
+35.6,53,115,Bradycardia,Medical evaluation
+36.4,80,82,Hypotension,"Increase salt intake, fluids"
+37.9,58,101,Fever,Paracetamol
+38.7,51,103,Fever,Paracetamol
+38.1,86,126,Fever,Paracetamol
+37.7,52,112,Fever,Paracetamol
+36.1,110,101,Tachycardia,"Beta-blockers, reduce stress"
+37.3,70,130,Normal,None
+34.8,106,97,Hypothermia,"Warm fluids, blankets, medical attention"
+39.4,57,108,Fever,Paracetamol
+39.1,110,101,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+39.4,82,89,Fever,Paracetamol
+36.1,119,108,Tachycardia,"Beta-blockers, reduce stress"
+36.6,101,94,Tachycardia,"Beta-blockers, reduce stress"
+35.1,92,138,Hypothermia,"Warm fluids, blankets, medical attention"
+39.5,51,90,Fever,Paracetamol
+35.2,80,118,Hypothermia,"Warm fluids, blankets, medical attention"
+36.9,93,136,Hypertension,"Antihypertensive drugs, lifestyle changes"
+39.2,73,120,Fever,Paracetamol
+38.1,99,92,Fever,Paracetamol
+34.9,90,132,Hypothermia,"Warm fluids, blankets, medical attention"
+34.9,100,86,Hypothermia,"Warm fluids, blankets, medical attention"
+37.2,105,80,Hypotension,"Increase salt intake, fluids"
+36.9,85,137,Hypertension,"Antihypertensive drugs, lifestyle changes"
+35.8,119,110,Tachycardia,"Beta-blockers, reduce stress"
+36.3,79,130,Normal,None
+39.4,52,112,Fever,Paracetamol
+37.2,103,93,Tachycardia,"Beta-blockers, reduce stress"
+38.9,54,102,Fever,Paracetamol
+39.3,93,120,Fever,Paracetamol
+36.7,113,97,Tachycardia,"Beta-blockers, reduce stress"
+34.6,118,91,Hypothermia,"Warm fluids, blankets, medical attention"
+36.3,110,140,Hypertension,"Antihypertensive drugs, lifestyle changes"
+37.7,113,128,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+35.0,92,96,Hypothermia,"Warm fluids, blankets, medical attention"
+36.2,52,105,Bradycardia,Medical evaluation
+37.4,82,125,Normal,None
+37.6,99,122,Fever,Paracetamol
+38.6,70,97,Fever,Paracetamol
+39.2,99,109,Fever,Paracetamol
+37.2,90,139,Hypertension,"Antihypertensive drugs, lifestyle changes"
+39.4,59,84,Fever,Paracetamol
+35.2,89,116,Hypothermia,"Warm fluids, blankets, medical attention"
+38.6,88,128,Fever,Paracetamol
+37.8,81,89,Fever,Paracetamol
+37.0,104,120,Tachycardia,"Beta-blockers, reduce stress"
+35.9,62,116,Normal,None
+38.0,75,119,Fever,Paracetamol
+37.1,68,80,Hypotension,"Increase salt intake, fluids"
+37.6,60,120,Fever,Paracetamol
+38.8,87,118,Fever,Paracetamol
+38.7,90,90,Fever,Paracetamol
+37.5,71,106,Normal,None
+35.9,112,110,Tachycardia,"Beta-blockers, reduce stress"
+38.6,99,138,Fever,Paracetamol
+34.7,60,135,Hypothermia,"Warm fluids, blankets, medical attention"
+35.2,86,107,Hypothermia,"Warm fluids, blankets, medical attention"
+37.3,98,95,Normal,None
+39.5,119,82,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+37.4,95,94,Normal,None
+38.3,74,105,Fever,Paracetamol
+38.7,85,96,Fever,Paracetamol
+36.5,80,138,Hypertension,"Antihypertensive drugs, lifestyle changes"
+35.2,105,131,Hypothermia,"Warm fluids, blankets, medical attention"
+36.3,97,95,Normal,None
+36.2,63,114,Normal,None
+39.1,55,104,Fever,Paracetamol
+38.6,73,123,Fever,Paracetamol
+35.3,112,134,Hypothermia,"Warm fluids, blankets, medical attention"
+38.5,116,117,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+37.5,76,129,Normal,None
+35.1,80,103,Hypothermia,"Warm fluids, blankets, medical attention"
+35.4,98,95,Hypothermia,"Warm fluids, blankets, medical attention"
+37.6,55,128,Fever,Paracetamol
+36.3,61,126,Normal,None
+35.3,101,134,Hypothermia,"Warm fluids, blankets, medical attention"
+38.6,56,113,Fever,Paracetamol
+39.0,106,116,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+36.1,91,108,Normal,None
+37.6,59,135,Fever,Paracetamol
+34.6,81,138,Hypothermia,"Warm fluids, blankets, medical attention"
+35.5,120,111,Tachycardia,"Beta-blockers, reduce stress"
+37.0,119,92,Tachycardia,"Beta-blockers, reduce stress"
+36.9,116,94,Tachycardia,"Beta-blockers, reduce stress"
+39.3,86,120,Fever,Paracetamol
+36.4,59,118,Bradycardia,Medical evaluation
+34.7,95,98,Hypothermia,"Warm fluids, blankets, medical attention"
+36.5,73,140,Hypertension,"Antihypertensive drugs, lifestyle changes"
+37.2,82,111,Normal,None
+38.4,87,112,Fever,Paracetamol
+37.8,74,96,Fever,Paracetamol
+35.5,115,112,Tachycardia,"Beta-blockers, reduce stress"
+37.2,92,113,Normal,None
+37.8,101,115,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+38.6,119,108,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+38.1,118,133,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+36.4,114,88,Hypotension,"Increase salt intake, fluids"
+38.8,75,116,Fever,Paracetamol
+39.1,95,120,Fever,Paracetamol
+34.7,110,125,Hypothermia,"Warm fluids, blankets, medical attention"
+35.2,50,83,Hypothermia,"Warm fluids, blankets, medical attention"
+37.1,93,83,Hypotension,"Increase salt intake, fluids"
+39.1,88,91,Fever,Paracetamol
+36.3,93,131,Hypertension,"Antihypertensive drugs, lifestyle changes"
+38.6,67,136,Fever,Paracetamol
+38.3,96,97,Fever,Paracetamol
+38.0,88,104,Fever,Paracetamol
+35.2,103,132,Hypothermia,"Warm fluids, blankets, medical attention"
+38.5,116,109,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+37.3,96,111,Normal,None
+37.7,75,91,Fever,Paracetamol
+36.3,62,88,Hypotension,"Increase salt intake, fluids"
+35.6,118,90,Tachycardia,"Beta-blockers, reduce stress"
+34.8,62,123,Hypothermia,"Warm fluids, blankets, medical attention"
+35.8,114,86,Hypotension,"Increase salt intake, fluids"
+35.9,68,85,Hypotension,"Increase salt intake, fluids"
+37.5,89,105,Normal,None
+34.6,108,126,Hypothermia,"Warm fluids, blankets, medical attention"
+37.9,82,126,Fever,Paracetamol
+37.4,118,139,Hypertension,"Antihypertensive drugs, lifestyle changes"
+37.1,51,103,Bradycardia,Medical evaluation
+34.8,64,108,Hypothermia,"Warm fluids, blankets, medical attention"
+35.2,111,97,Hypothermia,"Warm fluids, blankets, medical attention"
+36.5,60,123,Normal,None
+35.7,80,101,Normal,None
+37.6,82,107,Fever,Paracetamol
+35.8,76,130,Normal,None
+39.4,71,115,Fever,Paracetamol
+36.0,58,127,Bradycardia,Medical evaluation
+35.0,91,135,Hypothermia,"Warm fluids, blankets, medical attention"
+34.8,104,84,Hypothermia,"Warm fluids, blankets, medical attention"
+35.5,100,136,Hypertension,"Antihypertensive drugs, lifestyle changes"
+38.7,94,117,Fever,Paracetamol
+35.5,110,111,Tachycardia,"Beta-blockers, reduce stress"
+35.7,65,102,Normal,None
+35.3,63,80,Hypothermia,"Warm fluids, blankets, medical attention"
+37.2,118,96,Tachycardia,"Beta-blockers, reduce stress"
+35.7,102,88,Hypotension,"Increase salt intake, fluids"
+35.2,70,106,Hypothermia,"Warm fluids, blankets, medical attention"
+35.6,53,99,Bradycardia,Medical evaluation
+35.3,101,136,Hypothermia,"Warm fluids, blankets, medical attention"
+37.2,108,116,Tachycardia,"Beta-blockers, reduce stress"
+38.0,76,91,Fever,Paracetamol
+35.3,62,99,Hypothermia,"Warm fluids, blankets, medical attention"
+38.7,101,110,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+37.8,69,122,Fever,Paracetamol
+36.9,105,113,Tachycardia,"Beta-blockers, reduce stress"
+38.4,84,118,Fever,Paracetamol
+35.7,100,136,Hypertension,"Antihypertensive drugs, lifestyle changes"
+39.0,109,106,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+35.2,61,81,Hypothermia,"Warm fluids, blankets, medical attention"
+38.7,102,130,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+34.7,86,121,Hypothermia,"Warm fluids, blankets, medical attention"
+35.9,77,100,Normal,None
+35.5,57,138,Hypertension,"Antihypertensive drugs, lifestyle changes"
+37.8,118,119,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+36.7,115,117,Tachycardia,"Beta-blockers, reduce stress"
+35.2,88,82,Hypothermia,"Warm fluids, blankets, medical attention"
+36.5,58,106,Bradycardia,Medical evaluation
+36.8,62,98,Normal,None
+39.2,70,134,Fever,Paracetamol
+35.9,110,106,Tachycardia,"Beta-blockers, reduce stress"
+38.0,112,110,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+39.3,59,140,Fever,Paracetamol
+36.9,52,101,Bradycardia,Medical evaluation
+36.2,82,125,Normal,None
+35.3,105,95,Hypothermia,"Warm fluids, blankets, medical attention"
+37.9,92,140,Fever,Paracetamol
+36.0,114,99,Tachycardia,"Beta-blockers, reduce stress"
+36.3,64,135,Hypertension,"Antihypertensive drugs, lifestyle changes"
+37.5,108,114,Tachycardia,"Beta-blockers, reduce stress"
+36.0,89,88,Hypotension,"Increase salt intake, fluids"
+39.0,59,93,Fever,Paracetamol
+35.3,117,86,Hypothermia,"Warm fluids, blankets, medical attention"
+38.0,101,100,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+38.9,53,129,Fever,Paracetamol
+34.5,86,92,Hypothermia,"Warm fluids, blankets, medical attention"
+34.7,106,104,Hypothermia,"Warm fluids, blankets, medical attention"
+38.1,92,81,Fever,Paracetamol
+39.4,55,122,Fever,Paracetamol
+37.8,53,130,Fever,Paracetamol
+39.1,72,137,Fever,Paracetamol
+37.4,62,138,Hypertension,"Antihypertensive drugs, lifestyle changes"
+36.7,65,133,Hypertension,"Antihypertensive drugs, lifestyle changes"
+38.8,66,128,Fever,Paracetamol
+34.7,74,84,Hypothermia,"Warm fluids, blankets, medical attention"
+38.2,79,99,Fever,Paracetamol
+38.4,58,95,Fever,Paracetamol
+36.1,61,109,Normal,None
+36.0,86,121,Normal,None
+38.8,111,112,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+35.4,116,93,Hypothermia,"Warm fluids, blankets, medical attention"
+36.7,86,117,Normal,None
+37.6,95,123,Fever,Paracetamol
+38.6,88,138,Fever,Paracetamol
+37.3,89,82,Hypotension,"Increase salt intake, fluids"
+39.1,106,100,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+38.8,63,108,Fever,Paracetamol
+35.8,87,91,Normal,None
+38.6,71,102,Fever,Paracetamol
+34.6,103,101,Hypothermia,"Warm fluids, blankets, medical attention"
+37.6,97,98,Fever,Paracetamol
+38.6,111,133,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+37.6,78,125,Fever,Paracetamol
+36.1,68,112,Normal,None
+39.4,86,136,Fever,Paracetamol
+38.2,66,115,Fever,Paracetamol
+35.4,98,82,Hypothermia,"Warm fluids, blankets, medical attention"
+37.7,69,94,Fever,Paracetamol
+38.9,93,137,Fever,Paracetamol
+36.6,72,110,Normal,None
+38.7,86,115,Fever,Paracetamol
+39.0,75,102,Fever,Paracetamol
+35.5,96,84,Hypotension,"Increase salt intake, fluids"
+38.6,116,104,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+39.0,107,111,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+38.5,100,123,Fever,Paracetamol
+39.4,71,135,Fever,Paracetamol
+38.3,83,137,Fever,Paracetamol
+35.0,65,81,Hypothermia,"Warm fluids, blankets, medical attention"
+39.3,56,84,Fever,Paracetamol
+39.0,57,120,Fever,Paracetamol
+39.2,92,86,Fever,Paracetamol
+35.4,51,105,Hypothermia,"Warm fluids, blankets, medical attention"
+38.0,104,110,Fever and Tachycardia,"Paracetamol, Rest, Hydration"
+34.8,65,110,Hypothermia,"Warm fluids, blankets, medical attention"
+37.6,69,130,Fever,Paracetamol
+34.6,66,96,Hypothermia,"Warm fluids, blankets, medical attention"
+35.7,60,110,Normal,None
+36.9,81,95,Normal,None
+35.1,96,107,Hypothermia,"Warm fluids, blankets, medical attention"
+36.6,87,132,Hypertension,"Antihypertensive drugs, lifestyle changes"
+36.6,54,126,Bradycardia,Medical evaluation
+37.8,91,107,Fever,Paracetamol
+37.0,53,118,Bradycardia,Medical evaluation
+35.9,102,107,Tachycardia,"Beta-blockers, reduce stress"
+37.1,60,98,Normal,None
+37.0,91,86,Hypotension,"Increase salt intake, fluids"
+34.7,106,80,Hypothermia,"Warm fluids, blankets, medical attention"
