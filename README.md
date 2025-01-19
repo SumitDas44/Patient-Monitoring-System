@@ -22,7 +22,3 @@ This project is designed to measure the bpm, temp, pressure and co2 of a patient
 
 ### Image 2
 <img src="Diagrams/project-image2.jpg" alt="Project Image 2" style="width: 450px; height: auto;">
-
----
-
-> Replace `path/to/system-architecture-diagram.png`, `path/to/data-flow-diagram.png`, and `path/to/project-image*.png` with the actual paths to your files.
